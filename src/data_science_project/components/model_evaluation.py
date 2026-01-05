@@ -10,9 +10,9 @@ import mlflow.sklearn
 import numpy as np
 import joblib
 
-os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/MadarwalaHussain/datascienceproject.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"] = "MadarwalaHussain"
-os.environ["MLFLOW_TRACKING_PASSWORD"] = "db926fa2f90af5a877aa3d843baf4a9555d30c6c"
+# os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/MadarwalaHussain/datascienceproject.mlflow"
+# os.environ["MLFLOW_TRACKING_USERNAME"] = "MadarwalaHussain"
+# os.environ["MLFLOW_TRACKING_PASSWORD"] = "db926fa2f90af5a877aa3d843baf4a9555d30c6c"
 
 
 class ModelEvaluation:
